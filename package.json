@@ -1,0 +1,21 @@
+{
+  "name": "bt-scale-test",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Sample React 16.4 app for testing Bluetooth LE (Web Bluetooth) weighing scales",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node scripts/test-parser.js"
+  },
+  "dependencies": {
+    "react": "16.4.2",
+    "react-dom": "16.4.2"
+  },
+  "devDependencies": {
+    "vite": "5.4.11"
+  }
+}
